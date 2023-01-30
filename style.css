@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap'); 
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+    padding: 0px;
+  margin: 0px;
+}
+
+body {
+background: linear-gradient(to right, #bb0cac , #00ffff);
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.parent {
+  padding: 40px 30px 40px 30px;
+  width: 600px;
+  text-align: center;
+  background: white;
+  border-radius: 6px;
+  margin: 20px;
+  line-height: 2;
+  box-shadow: 2px seashell ;
+}
+
+
+.picker-section {
+  display: flex;
+  justify-content: center; 
+  gap: 15px;
+}
+
+.picker {
+  margin: 10px;
+  width: 60px;
+  height: 60px;
+  border: 0;
+  outline: 0;
+  background: none;
+}
+
+.css-code {
+  display: flex;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.code {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  padding: 8px;
+  user-select: none;
+  border-radius: 5px;
+  position: relative;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 10px;
+}
+
+#editor {
+  width: 200px;
+  height: 50px;
+}
+.css {
+  margin-right: 10px;
+}
+
+.copybtn {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+}
+
+
+.copyalert {
+  display: none; 
+  position: absolute;
+  right: 3px;
+  top: -30px;
+  background: #4d6bc3;
+  padding: 3px;
+  width: 73px;
+  border-radius: 17px;
+  color: #eee;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
