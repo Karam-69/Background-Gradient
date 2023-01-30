@@ -5,7 +5,6 @@ JavaScript Gradient Background.
 
 ---
 
-## [Wanna Try?](https://karam-69.github.io/Background-Gradient/)
-
+## [ Live Demo](https://karam-69.github.io/Background-Gradient/)
 ## Made By: Mohamed Karam. 
 ## Created In: 2022
