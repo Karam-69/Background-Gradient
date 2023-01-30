@@ -5,7 +5,7 @@ JavaScript Gradient Background.
 
 ---
 
-## Wanna Try?[Creando un repositorio remoto en GitHub](https://www.aluracursos.com/blog/creando-repositorio-remoto-en-github?utm_source=gnarus&utm_medium=timeline)
+## [Wanna Try?](https://karam-69.github.io/Background-Gradient/)
 
 ## Made By: Mohamed Karam. 
 ## Created In: 2022
